@@ -10,6 +10,7 @@ From the videos:
 - Few-shot Adversarial Learning of Realistic Neural Talking Head Models (Zakharov, Shysheya, Burkov, and Lempitsky, 2019): https://arxiv.org/abs/1905.08233
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (Wu, Zhang, Xue, Freeman, and Tenenbaum, 2017): https://arxiv.org/abs/1610.07584
 - These Cats Do Not Exist (Glover and Mott, 2019): http://thesecatsdonotexist.com/
+- Deconvolution and Checkerboard Artifacts (Odena et al., 2016): http://doi.org/10.23915/distill.00003
 
 
 From the notebooks:
@@ -17,3 +18,6 @@ From the notebooks:
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donahue, and Simonyan, 2019): https://arxiv.org/abs/1809.11096
 - PyTorch Documentation: https://pytorch.org/docs/stable/index.html#pytorch-documentation
 - MNIST Database: http://yann.lecun.com/exdb/mnist/
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford, Metz, and Chintala, 2016): https://arxiv.org/abs/1511.06434
+
+
